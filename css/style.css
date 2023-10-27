@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+form{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+label{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+input {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+
+.img1{
+    width: 20%;
+
+    margin-left: 40%;
+}
+
+.img2{
+
+    margin-left: 42%;
+}
